@@ -71,7 +71,8 @@
         <img 
 			width="45em"
   			height="45em"
-		 	src="https://img.icons8.com/nolan/64/discord-new-logo.png"/>
+			  s
+		 	src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
     </a>
 </div>
 <!-- Version:
