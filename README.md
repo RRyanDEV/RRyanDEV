@@ -67,13 +67,6 @@
   			height="45em"
 			src="https://www.svgrepo.com/show/111199/instagram.svg" />
     </a>
-    <a href="https://discord.gg/f2CWg7E">
-        <img 
-			width="45em"
-  			height="45em"
-			  s
-		 	src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
-    </a>
 </div>
 <!-- Version:
-v1.0.0.220201 -->
+v1.1.0.220602 -->
