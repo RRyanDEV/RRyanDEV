@@ -74,7 +74,7 @@
   			height="45em"
 			src="https://www.svgrepo.com/show/111199/instagram.svg" />
     </a>
-	<a href="https://www.linkedin.com/in/daniel-augusto-almeida/">
+	<a href="www.linkedin.com/in/rryandev">
         <img 
 			width="45em"
   			height="45em"
