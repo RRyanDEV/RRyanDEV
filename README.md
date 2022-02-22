@@ -74,7 +74,7 @@
   			height="45em"
 			src="https://www.svgrepo.com/show/111199/instagram.svg" />
     </a>
-	<a href="www.linkedin.com/in/rryandev">
+	<a href="https://www.linkedin.com/in/rryandev">
         <img 
 			width="45em"
   			height="45em"
