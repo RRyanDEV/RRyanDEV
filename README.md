@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/RRyanDEV/RRyanDEV">
-		<img src="src/banner.svg" width="800" height="300"/>
+		<img src="src/banner.png" width="800" height="300"/>
     </a>
 <div>
 
