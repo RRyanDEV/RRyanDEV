@@ -69,12 +69,12 @@
 <a href="https://github.com/RRyaanDEV">
     <img 
 	height="155em"
-	src="https://github-readme-stats.vercel.app/api?username=RRyanDEV&bg_color=20,e96443,904e95&title_color=fff&text_color=fff"/>
+	src="https://github-readme-stats.vercel.app/api?username=RRyanDEV&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </a
 <a href="https://github.com/RRyaanDEV">
     <img 
 	height="155em"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=20,e96443,904e95&title_color=fff&text_color=fff"/>
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
 
 
 <!-- Working at the moment -->
