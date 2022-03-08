@@ -68,21 +68,21 @@
 <!-- Stats GitHub -->
 <a href="https://github.com/RRyaanDEV">
     <img 
-	height="150em"
-	src="https://github-readme-stats.vercel.app/api?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+	height="155em"
+	src="https://github-readme-stats.vercel.app/api?username=RRyanDEV&bg_color=20,e96443,904e95&title_color=fff&text_color=fff"/>
 </a
 <a href="https://github.com/RRyaanDEV">
     <img 
-	height="150em"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&theme=radical"/>
+	height="155em"
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=20,e96443,904e95&title_color=fff&text_color=fff"/>
 
 
 <!-- Working at the moment -->
 <h4>Trabalhando atualmente em:</h4>
 <a href="https://github.com/RRyanDEV/WebSite-DexCraftServer">
     <img 
-		height="100em"
-		src="https://github-readme-stats.vercel.app/api/pin/?username=RRyanDEV&repo=WebSite-DexCraftServer&theme=radical"/>
+		height="115em"
+		src="https://github-readme-stats.vercel.app/api/pin/?username=RRyanDEV&repo=WebSite-DexCraftServer&bg_color=20,e96443,904e95&title_color=fff&text_color=fff"/>
 </a>
 <br>
 
@@ -104,4 +104,4 @@
 </a>
 </div>
 <!-- Version:
-v2.0.0.220308 -->
+v2.1.0.220308 -->
