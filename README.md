@@ -102,6 +102,12 @@
   		height="45em"
 		src="https://www.svgrepo.com/show/205292/linkedin.svg" />
 </a>
+<a href="https://t.me/ryaanreeal">
+    <img 
+		width="45em"
+  		height="45em"
+		src="https://www.svgrepo.com/show/303292/telegram-logo.svg"/>
+</a>
 </div>
 <!-- Version:
-v2.2.0.220312 -->
+v2.3.0.220312 -->
