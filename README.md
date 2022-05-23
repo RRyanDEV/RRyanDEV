@@ -75,18 +75,6 @@
     <img 
 	height="155em"
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
-
-
-<!-- Working at the moment -->
-<h4>Trabalhando atualmente em:</h4>
-<a href="https://github.com/RRyanDEV/Master-V1">
-    <img 
-		height="115em"
-		src="https://github-readme-stats.vercel.app/api/pin/?username=RRyanDEV&repo=Master-V1&bg_color=20,e96443,904e95&title_color=fff&text_color=fff"/>
-</a>
-<br>
-
-
 <!-- Social -->
 <h4>About me</h4>
 <div class="div-social">
