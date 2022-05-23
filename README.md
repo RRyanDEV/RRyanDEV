@@ -26,12 +26,12 @@
 		src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" 
 		alt="javascript"/>
 </a>
-<a href="https://www.java.com">
+<a href="https://sass-lang.com">
     <img 
 		width="40em"
   		height="40em"
-		src="https://www.svgrepo.com/show/184143/java.svg" 
-		alt="java"/>
+		src="https://www.svgrepo.com/show/374068/scss.svg" 
+		alt="scss"/>
 </a>
 
 ### Technologies
@@ -110,4 +110,4 @@
 </a>
 </div>
 <!-- Version:
-v2.0.0.20220318 -->
+v3.0.0.20220523 -->
