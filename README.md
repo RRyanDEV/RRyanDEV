@@ -5,16 +5,14 @@
 <div>
 
 **About me**
-<p align = left>
 - ✍🏾 FrontEnd Student
 
 - ❤️ I love creating web designs
 
 - 💬 Ask me about anything [here](https://github.com/RRyanDEV/RRyanDEV/issues)
-</p>
 
 ### 🔥 Streak Stats
-<p align="left">
+<p>
 	<a href="https://github.com/RRyaanDEV">
     	<img 
 		height="155em"
