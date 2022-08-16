@@ -45,6 +45,7 @@
 </a>
 
 </p>
+
 ### 🗄️ Cloud hosting
 <p>
 
@@ -53,6 +54,7 @@
 <a href="https://netlify.app"><img alt="Netlify" src="https://custom-icon-badges.herokuapp.com/badge/Netlify-327FC7.svg?logo=netlify&logoColor=white"></a>
 
 </p>
+
 ### 💻 Software and Tools
 <p>
 
@@ -73,7 +75,8 @@
 <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
 </a>
 
-</p>	
+</p>
+
 ### 📱 Social
 <div class="div-social">
 <a href="https://instagram.com/reeal_ryaan/">
