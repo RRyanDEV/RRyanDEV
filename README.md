@@ -12,18 +12,21 @@
 - 💬 Ask me about anything [here](https://github.com/RRyanDEV/RRyanDEV/issues)
 
 ### 🔥 Streak Stats
-<a href="https://github.com/RRyaanDEV">
-    <img 
-	height="155em"
-	src="https://github-readme-stats.vercel.app/api?username=RRyanDEV&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</a
-<a href="https://github.com/RRyaanDEV">
-    <img 
-	height="155em"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
+<p align="center">
+	<a href="https://github.com/RRyaanDEV">
+    	<img 
+		height="155em"
+		src="https://github-readme-stats.vercel.app/api?username=RRyanDEV&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+	</a
+	<a href="https://github.com/RRyaanDEV">
+    	<img 
+		height="155em"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
+</p>
 
 
 ### 👨‍💻 Programming and Markup Languages
+<p>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTMLl">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -41,13 +44,17 @@
 <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
 </a>
 
+</p>
 ### 🗄️ Cloud hosting
+<p>
 
 <a href="https://pages.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 
 <a href="https://netlify.app"><img alt="Netlify" src="https://custom-icon-badges.herokuapp.com/badge/Netlify-327FC7.svg?logo=netlify&logoColor=white"></a>
 
+</p>
 ### 💻 Software and Tools
+<p>
 
 <a href="https://code.visualstudio.com/">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
@@ -66,9 +73,8 @@
 <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
 </a>
 
-	
+</p>	
 ### 📱 Social
-<h4>About me</h4>
 <div class="div-social">
 <a href="https://instagram.com/reeal_ryaan/">
     <img 
@@ -90,7 +96,7 @@
 </a>
 </div>
 <!-- Version:
-v4.0.0.20220815 -->
+v4.0.0.20220816 -->
 
 <!-- Expiration used readme's
 
