@@ -4,68 +4,14 @@
     </a>
 <div>
 
-### Languages
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img
-		width="40em"
-  		height="40em"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" 
-		alt="html5"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img 
-		width="40em"
-  		height="40em"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" 
-		alt="css3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img 
-		width="40em"
-  		height="40em"
-		src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" 
-		alt="javascript"/>
-</a>
-<a href="https://sass-lang.com">
-    <img 
-		width="40em"
-  		height="40em"
-		src="https://www.svgrepo.com/show/374068/scss.svg" 
-		alt="scss"/>
-</a>
+**About me**
+- ✍🏾 FrontEnd Student
 
-### Technologies
-<a href="https://code.visualstudio.com/">
-    <img 
-		width="40em"
-  		height="40em"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-		alt="vscode" />
-</a>
-<a href="https://nodejs.org">
-        <img 
-			width="40em"
-  			height="40em"
-			src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" 
-			alt="nodejs"/>
-<a href="https://git-scm.com/">
-    <img 
-		width="40em"
-  		height="40em"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-		alt="git"/>
-</a>
-<a href="https://github.com">
-    <img 
-		width="40em"
-  		height="40em"
-		src="https://www.svgrepo.com/show/94698/github.svg" 
-		alt="github"/>
-</a>
-<div>
+- ❤️ I love creating web designs
 
+- 💬 Ask me about anything [here](https://github.com/RRyanDEV/RRyanDEV/issues)
 
-<!-- Stats GitHub -->
+### 🔥 Streak Stats
 <a href="https://github.com/RRyaanDEV">
     <img 
 	height="155em"
@@ -77,8 +23,51 @@
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
 
 
+### 👨‍💻 Programming and Markup Languages
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTMLl">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+</a>
+
+<a href="https://sass-lang.com">
+<img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
+</a>
+
+### 🗄️ Cloud hosting
+
+<a href="https://pages.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+
+<a href="https://netlify.app"><img alt="Netlify" src="https://custom-icon-badges.herokuapp.com/badge/Netlify-327FC7.svg?logo=netlify&logoColor=white"></a>
+
+### 💻 Software and Tools
+
+<a href="https://code.visualstudio.com/">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</a>
+
+<a href="https://nodejs.org">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+
+<a href="https://git-scm.com">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+</a>
+
+<a href="https://github.com"><img alt="GitHub" src="https://custom-icon-badges.herokuapp.com/badge/Github-327FC7.svg?logo=github&logoColor=black"></a>
+
+<a href="https://obsproject.com/pt-br">
+<img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
+</a>
+
 	
-<!-- Social -->
+### 📱 Social
 <h4>About me</h4>
 <div class="div-social">
 <a href="https://instagram.com/reeal_ryaan/">
@@ -101,4 +90,11 @@
 </a>
 </div>
 <!-- Version:
-v3.0.0.20220523 -->
+v4.0.0.20220815 -->
+
+<!-- Expiration used readme's
+
+DenverCoder1 - https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md / https://github.com/DenverCoder1/custom-icon-badges
+Anuraghazra  - https://github.com/anuraghazra/anuraghazra/blob/master/README.md
+
+ -->
