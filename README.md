@@ -5,14 +5,16 @@
 <div>
 
 **About me**
+<p align = left>
 - ✍🏾 FrontEnd Student
 
 - ❤️ I love creating web designs
 
 - 💬 Ask me about anything [here](https://github.com/RRyanDEV/RRyanDEV/issues)
+</p>
 
 ### 🔥 Streak Stats
-<p align="center">
+<p align="left">
 	<a href="https://github.com/RRyaanDEV">
     	<img 
 		height="155em"
@@ -28,7 +30,7 @@
 ### 👨‍💻 Programming and Markup Languages
 <p>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTMLl">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
