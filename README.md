@@ -42,6 +42,9 @@
 <a href="https://sass-lang.com">
 <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
 </a>
+<a href="https://www.markdownguide.org/basic-syntax/">
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF.svg?logo=markdown&logoColor=black">
+</a>
 
 ### 🗄️ Cloud hosting
 
@@ -61,6 +64,12 @@
 <a href="https://github.com"><img alt="GitHub" src="https://custom-icon-badges.herokuapp.com/badge/Github-327FC7.svg?logo=github&logoColor=black"></a>
 <a href="https://obsproject.com/pt-br">
 <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
+</a>
+<a href="https://www.adobe.com/br/products/photoshop.html">
+<img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-071D34.svg?logo=adobe%20photoshop&logoColor=57a6f8">
+</a>
+<a href="https://www.adobe.com/br/products/premiere.html">
+<img alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000057.svg?&logo=Adobe%20Premiere%20Pro&logoColor=9999F8">
 </a>
 
 </div>
@@ -84,10 +93,11 @@
 
 
 <!-- Version:
-v4.0.0.20220816 -->
+v4.1.0.20221212 -->
 
 <!-- 
 DenverCoder1 - https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md
+Ileriayo Adebiyi - https://github.com/Ileriayo/markdown-badges
 -->
 
 
