@@ -106,15 +106,10 @@
 		height="155em"
 		src="https://github-readme-stats.vercel.app/api?username=RRyanDEV&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 	</a
-	<a href="https://github.com/RRyaanDEV">
-    	<img 
-		height="155em"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
-</p>
 <div>
 
 <!-- Version:
-v4.2.0.20230219 -->
+v4.3.0.20230219 -->
 
 <!--
 DenverCoder1 - https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md / https://github.com/DenverCoder1/readme-typing-svg
