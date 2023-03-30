@@ -38,6 +38,7 @@
 </a>
 
 ### 👨‍💻 Markup / Styling
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 </a>
@@ -56,6 +57,7 @@
 <a href="https://www.canva.com/pt_br/" alt="Canva"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"> </a>
 
 ### 🖥 Frameworks And Libraries
+
 <a href="https://angular.io" alt="Angular"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="https://getbootstrap.com" alt="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
 <a href="https://jquery.com" alt="JQuery"><img src="https://img.shields.io/badge/JQuery-%230769AD.svg?logo=jquery&logoColor=white"></a>
@@ -91,7 +93,6 @@
 <img alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000057.svg?&logo=Adobe%20Premiere%20Pro&logoColor=9999F8">
 </a>
 
-
 </div>
 
 ##
@@ -105,16 +106,20 @@
     	<img 
 		height="155em"
 		src="https://github-readme-stats.vercel.app/api?username=RRyanDEV&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-	</a
-	<a href="https://github.com/RRyaanDEV">
-    	<img 
-		height="155em"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRyanDEV&show_icons=true&include_all_commits=true&count_private=true&layout=show&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
+<<<<<<< HEAD
+	</a>
 </p>
 <div>
 
 <!-- Version:
-v4.2.0.20230219 -->
+v4.3.0.230330 -->
+=======
+	</a
+<div>
+
+<!-- Version:
+v4.3.0.20230219 -->
+>>>>>>> 033d3bae41b54bddfd157d4fac9b57223aafc341
 
 <!--
 DenverCoder1 - https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md / https://github.com/DenverCoder1/readme-typing-svg
