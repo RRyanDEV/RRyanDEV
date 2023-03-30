@@ -36,8 +36,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 </a>
+<a href="https://www.php.net">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+</a>
 
 ### 👨‍💻 Markup / Styling
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 </a>
@@ -56,6 +60,7 @@
 <a href="https://www.canva.com/pt_br/" alt="Canva"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"> </a>
 
 ### 🖥 Frameworks And Libraries
+
 <a href="https://angular.io" alt="Angular"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="https://getbootstrap.com" alt="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
 <a href="https://jquery.com" alt="JQuery"><img src="https://img.shields.io/badge/JQuery-%230769AD.svg?logo=jquery&logoColor=white"></a>
@@ -91,7 +96,6 @@
 <img alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000057.svg?&logo=Adobe%20Premiere%20Pro&logoColor=9999F8">
 </a>
 
-
 </div>
 
 ##
@@ -109,7 +113,7 @@
 <div>
 
 <!-- Version:
-v4.3.0.20230219 -->
+v4.4.0.230330 -->
 
 <!--
 DenverCoder1 - https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md / https://github.com/DenverCoder1/readme-typing-svg
