@@ -61,12 +61,12 @@
 
 ### 🖥 Frameworks And Libraries
 
-<a href="https://angular.io" alt="Angular"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
+<!-- <a href="https://angular.io" alt="Angular"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a> -->
 <a href="https://getbootstrap.com" alt="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
 <a href="https://jquery.com" alt="JQuery"><img src="https://img.shields.io/badge/JQuery-%230769AD.svg?logo=jquery&logoColor=white"></a>
 <a href="https://nodejs.org/en/" alt="NodeJS"><img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
-<a href="https://reactjs.org" alt="React"><img src="https://img.shields.io/badge/React-black?logo=react&logoColor=white"></a>
-<a href="https://reactnative.dev" alt="ReactNat"><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<!-- <a href="https://reactjs.org" alt="React"><img src="https://img.shields.io/badge/React-black?logo=react&logoColor=white"></a>
+<a href="https://reactnative.dev" alt="ReactNat"><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a> -->
 
 ### 🗄️ Cloud hosting / Database
 
@@ -74,7 +74,7 @@
 <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?&logo=vercel&logoColor=white"></a>
 <a href="https://netlify.app"><img alt="Netlify" src="https://custom-icon-badges.herokuapp.com/badge/Netlify-0e1e25.svg?&logo=netlify&logoColor=25C7B7"></a>
 <a href="https://www.mysql.com" alt="MYSQL"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=000000"></a>
-<a href="https://www.mongodb.com" alt="MongoDB"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+<!-- <a href="https://www.mongodb.com" alt="MongoDB"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a> -->
 
 ### 💻 Software and Tools
 
@@ -113,7 +113,7 @@
 <div>
 
 <!-- Version:
-v4.4.0.230330 -->
+v4.5.0.230408 -->
 
 <!--
 DenverCoder1 - https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md / https://github.com/DenverCoder1/readme-typing-svg
