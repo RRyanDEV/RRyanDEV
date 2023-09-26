@@ -55,11 +55,20 @@
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF.svg?logo=markdown&logoColor=black">
 </a>
 
-### ✍ Design
+### ℹ️ Operating Systems
 
-<a href="https://www.canva.com/pt_br/" alt="Canva"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"> </a>
+<a href="https://www.microsoft.com/pt-br/software-download/windows11">
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+</a> 
+<a href="https://www.apple.com/br/macos/ventura/">
+<img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Apple&logoColor=white">
+</a>
 
-### 🖥 Frameworks And Libraries
+### 📦 Virtualization and Deploy
+
+<a href="https://www.docker.com" alt="Docker"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> </a>
+
+### 🖥 Frameworks and Libraries
 
 <!-- <a href="https://angular.io" alt="Angular"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a> -->
 <a href="https://getbootstrap.com" alt="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
@@ -113,7 +122,7 @@
 <div>
 
 <!-- Version:
-v4.5.0.230408 -->
+v4.6.0.230926 -->
 
 <!--
 DenverCoder1 - https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md / https://github.com/DenverCoder1/readme-typing-svg
