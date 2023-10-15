@@ -1,7 +1,7 @@
 <h3 align="center">
   Welcome to RRyanDEV's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="320px" max-width="320px" width="320px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="321px" max-width="321px" width="321px" align="right">
 </h3>
 
 <p align="center">
@@ -100,9 +100,7 @@
 <a href="https://notepad-plus-plus.org" alt="Notepad"><img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a>&#8287;
 <a href="https://www.notion.so/pt-br" alt="Notion"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="https://obsproject.com/pt-br">&#8287;
-
-<br>
-
+<br><br>
 <img align="center" alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white">
 </a>&#8287;
 <a href="https://www.adobe.com/br/products/photoshop.html">
@@ -116,4 +114,4 @@
 </div>
 
 <!-- Version:
-v5.0.1.231510 -->
+v5.0.2.231510 -->
