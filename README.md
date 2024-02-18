@@ -34,26 +34,20 @@
 ### 👨‍💻 Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FFF000.svg?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FFF000.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.php.net">
-<img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-</a>
+<img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 
 ### 👨‍💻 Markup / Styling
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-<img align="center" alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</a>
+<img align="center" alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-<img align="center" alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</a>
+<img align="center" alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://sass-lang.com">
-<img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-</a>
+<img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
 <a href="https://www.markdownguide.org/basic-syntax/">
-<img align="center" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-</a>
+<img align="center" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 
 ### 🖥 Frameworks and Libraries
 
@@ -91,10 +85,8 @@
 ### 💻 Software and Tools
 
 <a href="https://code.visualstudio.com/">
-<img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</a>
-<img align="center"  alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</a>
+<img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://notepad-plus-plus.org" alt="Notepad"><img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a>
 <a href="https://www.notion.so/pt-br" alt="Notion"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="https://obsproject.com/pt-br"></a>
