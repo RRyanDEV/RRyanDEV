@@ -17,7 +17,7 @@
 
  <p align="center">
     This is me, Ryan Gomes. A <b>Web Full-Stack Developer</b> on the rise, and a <b> Programming Enthusiast</b>.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px">
- Who is obsessed with the idea of ​​<b>improving</b> and wants a <b>platform</b> to
+ That one that obsessed with the idea of ​​<b>improving</b> and wants a <b>platform</b> to
     <b>grow</b>.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" />
   </p>
 
