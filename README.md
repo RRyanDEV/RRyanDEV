@@ -35,7 +35,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FFF000.svg?style=for-the-badge&logo=javascript&logoColor=black">
-</a>&#8287;
+</a>
 <a href="https://www.php.net">
 <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </a>
@@ -44,20 +44,20 @@
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
 <img align="center" alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</a>&#8287;
+</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
 <img align="center" alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</a>&#8287;
+</a>
 <a href="https://sass-lang.com">
 <img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-</a>&#8287;
+</a>
 <a href="https://www.markdownguide.org/basic-syntax/">
 <img align="center" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </a>
 
 ### 🖥 Frameworks and Libraries
 
-<a href=https://tailwindcss.com> <img align="center" src ='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'></a>&#8287;
+<a href=https://tailwindcss.com> <img align="center" src ='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'></a>
 <a href="https://nodejs.org/en/" alt="NodeJS"><img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
 ### 📦 Virtualization and Deploy
@@ -67,24 +67,24 @@
 ### ℹ️ Operating Systems
 
 <a href="https://www.microsoft.com/pt-br/software-download/windows11">
-<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&#8287;
+<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://www.apple.com/br/macos/ventura/">
 <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0"></a>
 
 ### 🗄️ Cloud hosting / Database
 
-<a href="https://pages.github.com"><img align="center" alt="GitHub Pages" src="https://img.shields.io/badge/github-%23123F6D.svg?style=for-the-badge&logo=github&logoColor=white"></a>&#8287;
-<a href="https://vercel.com"><img align="center"  alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>&#8287;
-<a href="https://netlify.app"><img align="center" alt="Netlify" src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black"></a>&#8287;
+<a href="https://pages.github.com"><img align="center" alt="GitHub Pages" src="https://img.shields.io/badge/github-%23123F6D.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://vercel.com"><img align="center"  alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://netlify.app"><img align="center" alt="Netlify" src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black"></a>
 <a href="https://www.mysql.com" alt="MYSQL"><img align="center" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
 ### ⚙️ Terminal
 
 <a href="https://www.npmjs.com/">
 <img align="center" alt="Npm" src="https://img.shields.io/badge/NPM-%23F00000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="https://git-scm.com/download/win">&#8287;
+<a href="https://git-scm.com/download/win">
 <img align="center" alt="Bash" src="https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-<a href="https://yarnpkg.com/"></a>&#8287;
+<a href="https://yarnpkg.com/"></a>
 <img align="center" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
 </>
 
@@ -92,24 +92,21 @@
 
 <a href="https://code.visualstudio.com/">
 <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</a>&#8287;
+</a>
 <img align="center"  alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</a>&#8287;
-<a href="https://notepad-plus-plus.org" alt="Notepad"><img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a>&#8287;
+</a>
+<a href="https://notepad-plus-plus.org" alt="Notepad"><img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a>
 <a href="https://www.notion.so/pt-br" alt="Notion"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
-<a href="https://obsproject.com/pt-br"></a>&#8287;
+<a href="https://obsproject.com/pt-br"></a>
 <br><br>
-<img align="center" alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white">
-</a>&#8287;
+<img align="center" alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white"></a>
 <a href="https://www.adobe.com/br/products/photoshop.html">
-<img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-071D34.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=57a6f8">
-</a>
-<a href="https://www.adobe.com/br/products/premiere.html">&#8287;
-<img align="center" alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000057.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999F8">
-</a>
+<img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-071D34.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=57a6f8"></a>
+<a href="https://www.adobe.com/br/products/premiere.html">
+<img align="center" alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000057.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999F8"></a>
 
 
 </div>
 
 <!-- Version:
-v5.0.3.240218 -->
+v5.0.4.240218 -->
