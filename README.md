@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-   <a href="https://portfolio-vscode-eosin.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Click+To+Acess+My+Portifolio"></a>
+   <a href="https://portfolio-react-rryandev.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Click+To+Acess+My+Portifolio"></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <a href="https://t.me/ryaanreeal"><img width="35em" alt="Telegram" title="Telegram" src="https://www.svgrepo.com/show/303292/telegram-logo.svg"></a>
 
  <p align="center">
-    This is me, Ryan Gomes. A <b>Front-End Developer</b> on the rise, and a <b> Programming Enthusiast</b>.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px">
+    This is me, Ryan Gomes. A <b>Web Full-Stack Developer</b> on the rise, and a <b> Programming Enthusiast</b>.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px">
  Who is obsessed with the idea of ​​<b>improving</b> and wants a <b>platform</b> to
     <b>grow</b>.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" />
   </p>
@@ -29,7 +29,7 @@
 
 <div align="left">
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h2><img src= "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width= 32px></h2>
 
 ### 👨‍💻 Languages
 
@@ -57,21 +57,19 @@
 
 ### 🖥 Frameworks and Libraries
 
-<a href=https://tailwindcss.com> <img align="center" src ='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'>&#8287;
+<a href=https://tailwindcss.com> <img align="center" src ='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'></a>&#8287;
 <a href="https://nodejs.org/en/" alt="NodeJS"><img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
 ### 📦 Virtualization and Deploy
 
-<a href="https://www.docker.com" alt="Docker"><img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> </a>
+<a href="https://www.docker.com" alt="Docker"><img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 
 ### ℹ️ Operating Systems
 
 <a href="https://www.microsoft.com/pt-br/software-download/windows11">
-<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</a>&#8287;
+<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&#8287;
 <a href="https://www.apple.com/br/macos/ventura/">
-<img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0">
-</a>
+<img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0"></a>
 
 ### 🗄️ Cloud hosting / Database
 
@@ -85,10 +83,10 @@
 <a href="https://www.npmjs.com/">
 <img align="center" alt="Npm" src="https://img.shields.io/badge/NPM-%23F00000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://git-scm.com/download/win">&#8287;
-<img align="center" alt="Bash" src="https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img align="center" alt="Bash" src="https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="https://yarnpkg.com/"></a>&#8287;
-<img align="center" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-</a>
+<img align="center" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
+</>
 
 ### 💻 Software and Tools
 
@@ -99,7 +97,7 @@
 </a>&#8287;
 <a href="https://notepad-plus-plus.org" alt="Notepad"><img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a>&#8287;
 <a href="https://www.notion.so/pt-br" alt="Notion"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
-<a href="https://obsproject.com/pt-br">&#8287;
+<a href="https://obsproject.com/pt-br"></a>&#8287;
 <br><br>
 <img align="center" alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white">
 </a>&#8287;
@@ -114,4 +112,4 @@
 </div>
 
 <!-- Version:
-v5.0.2.231510 -->
+v5.0.3.240218 -->
