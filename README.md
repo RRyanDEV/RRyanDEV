@@ -4,9 +4,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="321px" max-width="321px" width="321px" align="right">
 </h3>
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://portfolio-react-rryandev.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Click+To+Acess+My+Portifolio"></a>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://instagram.com/reeal_ryaan/"><img width="35em" alt="Instagram" title="Instagram" src="https://www.svgrepo.com/show/111199/instagram.svg"></a>
@@ -29,10 +29,12 @@
 
 <div align="left">
 
-<h2><img src= "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width= 32px></h2>
+<h2><img src= "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 
 ### 👨‍💻 Languages
 
+<a href="https://go.dev/">
+<img align="center" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FFF000.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.php.net">
@@ -51,7 +53,7 @@
 
 ### 🖥 Frameworks and Libraries
 
-<a href=https://tailwindcss.com> <img align="center" src ='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'></a>
+<a href="https://tailwindcss.com>"> <img align="center" src ="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://nodejs.org/en/" alt="NodeJS"><img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
 ### 📦 Virtualization and Deploy
@@ -61,8 +63,10 @@
 ### ℹ️ Operating Systems
 
 <a href="https://www.microsoft.com/pt-br/software-download/windows11">
-<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="https://www.apple.com/br/macos/ventura/">
+<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+Cg==&logoColor=white"></a>
+<a href="https://pt.wikipedia.org/wiki/Android">
+<img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://www.apple.com/br/macos/macos-sequoia/">
 <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0"></a>
 
 ### 🗄️ Cloud hosting / Database
@@ -97,8 +101,7 @@
 <a href="https://www.adobe.com/br/products/premiere.html">
 <img align="center" alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000057.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999F8"></a>
 
-
 </div>
 
 <!-- Version:
-v5.0.4.240218 -->
+v5.0.5.250614 -->
