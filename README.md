@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-   <a href="https://rryandev.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Click+To+Acess+My+Portifolio"></a>
+   <a href="https://rryandev.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Click+To+Acess+My+Portfolio"></a>
 </p>
 
 ```js
@@ -38,4 +38,4 @@ class Skills extends Developer {
 </p>
 
 <!-- Version:
-v6.0.0.250728 -->
+v6.0.1.250728 -->
